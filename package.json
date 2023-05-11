@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite-plugin-vue-devtools": "^0.0.6",
+    "vite-plugin-vue-devtools": "^0.0.9",
     "vitepress": "1.0.0-alpha.75"
   }
 }

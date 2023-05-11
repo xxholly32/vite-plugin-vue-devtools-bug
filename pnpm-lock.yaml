@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  vite-plugin-vue-devtools: ^0.0.6
+  vite-plugin-vue-devtools: ^0.0.9
   vitepress: 1.0.0-alpha.75
 
 devDependencies:
-  vite-plugin-vue-devtools: 0.0.6
+  vite-plugin-vue-devtools: 0.0.9
   vitepress: 1.0.0-alpha.75
 
 packages:
@@ -1355,8 +1355,8 @@ packages:
       - supports-color
     dev: true
 
-  /vite-plugin-vue-devtools/0.0.6:
-    resolution: {integrity: sha512-VRCQDRQj4FFJisAOadrM4EA2Iv9LBTuZhaYvsJ+2NN3jkO+f/vfcfnbuS+4BQMO2eY68zEDlmj6TLmvzWe6SRA==}
+  /vite-plugin-vue-devtools/0.0.9:
+    resolution: {integrity: sha512-O0LFIyMRy+twjLWzHaomifnQRcLxD0rXx3/cGKUhQAImD+hbt36OYv9LT8xk42JWueApBctSCBhBA90iBznQvw==}
     engines: {node: '>=14'}
     peerDependencies:
       vite: ^3.0.0-0 || ^4.0.0-0
